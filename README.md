@@ -25,4 +25,4 @@ I am a developer specializing in building scalable, high-performance application
 * **Web3 Innovation:** Developing efficient **Smart Contracts** and **Solana** based applications.
 * **Observability:** Monitoring distributed systems using **Grafana** and **Prometheus**.
 
-[LinkedIn](https://linkedin.com/in/your-profile) • [Twitter](https://twitter.com/your-profile) • [Portfolio](https://yourportfolio.com)
+
