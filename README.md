@@ -25,14 +25,3 @@ I am a passionate developer specializing in building scalable, high-performance 
 * **Web3 Innovation:** Developing efficient **Smart Contracts** and **Solana** based applications.
 * **Observability:** Monitoring distributed systems using **Grafana** and **Prometheus**.
 
----
-
-### 📈 GitHub Stats
-
-![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
-
-### 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/your-profile) • [Twitter](https://twitter.com/your-profile) • [Portfolio](https://yourportfolio.com)
