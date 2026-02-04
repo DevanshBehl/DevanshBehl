@@ -3,7 +3,7 @@
 ### 👨‍💻 Full Stack & Web3 Developer | DevOps Engineer
 **📍 New Delhi, India**
 
-I am a passionate developer specializing in building scalable, high-performance applications. With a deep focus on **Advanced Backend Communication** and **Decentralized Finance (DeFi)**, I bridge the gap between complex server-side logic and modern blockchain architectures.
+I am a developer specializing in building scalable, high-performance applications. With a deep focus on **Advanced Backend Communication** and **Decentralized Finance (DeFi)**, I bridge the gap between complex server-side logic and modern blockchain architectures.
 
 ---
 
