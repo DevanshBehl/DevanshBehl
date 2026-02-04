@@ -1,94 +1,38 @@
-# Devansh Behl
+# Hi there, I'm Devansh Behl 👋
 
-**Full Stack Engineer · Web3 Developer · DevOps Engineer**  
-📍 New Delhi, India
+### 👨‍💻 Full Stack & Web3 Developer | DevOps Engineer
+**📍 New Delhi, India**
 
----
-
-## About Me
-
-I am a results-driven **Full Stack and Web3 Developer** with strong expertise in **scalable backend systems, decentralized applications, and cloud-native infrastructure**. I specialize in building high-performance systems that span **modern frontend frameworks, advanced backend communication, blockchain protocols, and DevOps pipelines**.
-
-My work focuses on **clean architecture, system reliability, performance optimization, and security-first design**, whether building Web2 platforms or Web3 protocols.
+I am a passionate developer specializing in building scalable, high-performance applications. With a deep focus on **Advanced Backend Communication** and **Decentralized Finance (DeFi)**, I bridge the gap between complex server-side logic and modern blockchain architectures.
 
 ---
 
-## Technical Expertise
+### 🛠️ Technical Arsenal
 
-### Programming Languages
-- **C, C++, Java**
-- **JavaScript, TypeScript**
-- **Python**
-- **Rust**
-- **Solidity**
-
----
-
-### Frontend & Web
-- HTML5, CSS3  
-- Tailwind CSS  
-- React  
-- Next.js  
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Languages** | C, C++, Java, JavaScript, TypeScript, Rust, Python, Solidity |
+| **Frontend** | React, Next.js, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, WebRTC, WebSockets, Kafka, RabbitMQ |
+| **Databases** | PostgreSQL, MongoDB, Redis, Prisma ORM |
+| **Web3 & Blockchain** | Ethereum, Solana (Client & Server side), Smart Contracts, DeFi |
+| **DevOps & Cloud** | AWS, Docker, Kubernetes, Grafana, Prometheus |
 
 ---
 
-### Backend & System Design
-- Advanced backend communication patterns  
-- WebSockets & WebRTC  
-- Event-driven architectures  
-- Kafka & RabbitMQ  
-- Redis  
+### 🔭 Current Focus
+* **Scalable Architecture:** Implementing advanced backend communication patterns using **Kafka** and **RabbitMQ**.
+* **Web3 Innovation:** Developing efficient **Smart Contracts** and **Solana** based applications.
+* **Observability:** Monitoring distributed systems using **Grafana** and **Prometheus**.
 
 ---
 
-### Databases & ORM
-- PostgreSQL  
-- MongoDB  
-- Prisma  
+### 📈 GitHub Stats
+
+![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ---
 
-### Blockchain & Web3
-- Ethereum & Solana ecosystems  
-- Smart Contract Development (Solidity)  
-- DeFi Protocols  
-- Client-side & Server-side Solana development  
-
----
-
-### DevOps & Cloud
-- Docker  
-- Kubernetes  
-- AWS  
-- Grafana & Prometheus  
-- CI/CD & Infrastructure Automation  
-
----
-
-## Core Strengths
-
-- Scalable system design  
-- Distributed systems & message queues  
-- Blockchain protocol engineering  
-- Cloud-native & containerized deployments  
-- Performance tuning & observability  
-- Secure backend architecture  
-
----
-
-## Philosophy
-
-> Build systems that scale, fail gracefully, and are secure by default.
-
-I value **clarity over complexity**, **automation over manual processes**, and **engineering discipline over shortcuts**.
-
----
-
-## Connect
-
-- GitHub: **@DevanshBehl**
-- Location: **New Delhi, India**
-
----
-
-⭐ Always open to collaborating on **high-impact engineering projects**, **Web3 protocols**, and **infrastructure-heavy systems**.
+### 📫 Connect with Me
+[LinkedIn](https://linkedin.com/in/your-profile) • [Twitter](https://twitter.com/your-profile) • [Portfolio](https://yourportfolio.com)
