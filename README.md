@@ -1,80 +1,158 @@
-<h1 align="center">Hi there, I'm Devansh Behl 👋</h1>
-<h3 align="center">Full-Stack & Web3 Developer | DevOps Engineer</h3>
-<p align="center">📍 New Delhi, India</p>
+<div align="center">
 
-<p align="center">
-  I am a developer specializing in building scalable, high-performance applications. With a deep focus on <b>Advanced Backend Communication</b>, <b>Distributed Systems</b>, and <b>Decentralized Finance (DeFi)</b>, I bridge the gap between complex server-side logic and modern blockchain architectures.
-</p>
+# `Devansh Behl`
 
----
+**Software Engineer** · Distributed Systems · Decentralized Infrastructure
 
-### 🔭 Current Focus
-- **Scalable Architecture:** Implementing advanced backend communication patterns using **Kafka**, **RabbitMQ**, and **WebSockets**.
-- **Web3 Innovation:** Building efficient **Smart Contracts** and decentralized applications on **Solana** (Rust/Anchor) and **Ethereum**.
-- **Observability & DevOps:** Orchestrating and monitoring distributed systems using **Docker**, **Kubernetes**, **Grafana**, and **Prometheus**.
-- **Algorithmic Problem Solving:** Continuously sharpening DSA skills with advanced LeetCode challenges.
+`New Delhi, India` · `IST (UTC+5:30)`
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=flat-square&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-### 🛠️ Technical Arsenal
-
-#### Languages
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-</p>
-
-#### Frontend & UI
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
-
-#### Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-</p>
-
-#### Web3 & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 💻 Featured Projects
+## `~/whoami`
 
-* **Code Nexus:** A comprehensive platform for coding interviews featuring real-time IDE synchronization, WebRTC video conferencing, and AI mock interviews.
-* **Decentralized Casino (Stake.com Clone):** A high-performance DeFi application built on the Solana blockchain utilizing Rust and Anchor. 
-* **Alerion AI:** A distributed edge-fog monitoring platform designed for industrial anomaly detection, leveraging Docker and Kafka for robust data pipelines.
-* **Viscosity UI:** An upcoming premium UI component library focusing on fluid liquid effects and glassmorphism design principles.
+I build software at the boundary where backend systems meet decentralized infrastructure — designing message-driven architectures, on-chain protocols, and the observability layers that hold them together in production.
+
+My work sits across three concentric concerns: **correctness** (provable systems, type-safe contracts, deterministic state machines), **performance** (low-latency pipelines, zero-copy serialization, async runtimes), and **operability** (instrumentation, tracing, recovery semantics). I treat infrastructure as a first-class engineering surface, not an afterthought.
+
+Currently focused on Solana program development with the Anchor framework, event-driven backends in Rust and TypeScript, and the design of observability stacks that scale beyond ten services.
 
 ---
 
-### 📊 GitHub Activity
+## `~/engineering` — areas of depth
+
+```
+DISTRIBUTED SYSTEMS    Event-driven architectures · CQRS · Saga patterns
+                       Kafka, RabbitMQ, NATS · Redis Streams · WebSocket fan-out
+
+BLOCKCHAIN             Solana program development (Anchor, native Rust)
+                       EVM smart contracts (Solidity) · Foundry · cross-chain primitives
+
+BACKEND                High-throughput services in Rust, Go, Node.js
+                       PostgreSQL tuning · Redis caching · gRPC · GraphQL federation
+
+INFRASTRUCTURE         Kubernetes orchestration · Docker · Terraform
+                       Prometheus + Grafana · OpenTelemetry · structured logging
+
+ALGORITHMS             Competitive programming · concurrent data structures
+                       Performance profiling · cache-aware optimization
+```
+
+---
+
+## `~/stack`
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+#### Systems & Languages
+`Rust` `Go` `TypeScript`
+`C++` `Python` `Java`
+`Solidity`
+
+#### Backend Runtime
+`Tokio` `Actix` `Axum`
+`Node.js` `Express` `Fastify`
+`gRPC` `tRPC`
+
+</td>
+<td valign="top" width="33%">
+
+#### Data & Messaging
+`PostgreSQL` `MongoDB`
+`Redis` `ClickHouse`
+`Apache Kafka` `RabbitMQ`
+`WebRTC` `WebSocket`
+
+#### Web3
+`Solana` `Anchor`
+`Ethereum` `Foundry`
+`ethers.js` `web3.js`
+
+</td>
+<td valign="top" width="33%">
+
+#### Infrastructure
+`Docker` `Kubernetes`
+`AWS` `Terraform`
+`Nginx` `HAProxy`
+
+#### Observability
+`Prometheus` `Grafana`
+`OpenTelemetry` `Jaeger`
+`Loki` `ELK`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `~/projects` — selected work
+
+### **Code Nexus** &nbsp;·&nbsp; *technical interview platform*
+Real-time collaborative IDE with sub-100ms operational transform synchronization. WebRTC-backed video conferencing with TURN fallback, AI-driven mock interview agents, and a session replay engine for post-interview review. Stack: Next.js, Rust (sync server), PostgreSQL, Redis pub/sub.
+
+### **Decentralized Casino** &nbsp;·&nbsp; *Solana DeFi protocol*
+On-chain provably-fair gaming protocol built in Rust with the Anchor framework. Verifiable randomness via Switchboard VRF, a custom escrow program for atomic settlement, and a TypeScript SDK for client integration. Audited internally for re-entrancy, integer overflow, and PDA seed collisions.
+
+### **Alerion AI** &nbsp;·&nbsp; *edge-fog anomaly detection*
+Distributed monitoring platform for industrial IoT. Three-tier topology — edge ingestion, fog aggregation, cloud analytics — connected by Kafka. Containerized inference workloads orchestrated via Kubernetes; alert pipeline built on Prometheus AlertManager with custom routing.
+
+### **Viscosity UI** &nbsp;·&nbsp; *component library* — *in development*
+Headless React primitives focused on physically-modeled fluid surfaces and refractive glassmorphism. WebGL shaders for liquid effects, framework-agnostic core, full TypeScript inference for variant APIs.
+
+---
+
+## `~/principles`
+
+> Code is read far more than it is written — optimize for the next engineer who needs to debug it at 3 AM.
+
+> Distributed systems fail. The question is whether they fail loudly, recoverably, and with traces.
+
+> Premature abstraction is more dangerous than premature optimization.
+
+> Tests are documentation that compiles. Types are documentation that the compiler enforces.
+
+---
+
+## `~/activity`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevanshBehl&show_icons=true&theme=radical&hide_border=true" alt="Devansh's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevanshBehl&theme=radical&hide_border=true" alt="Devansh's GitHub Streak" />
+
+<a href="https://github.com/DevanshBehl">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevanshBehl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshBehl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevanshBehl&theme=github-dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+
+</div>
+
+---
+
+## `~/contact`
+
+I'm selectively open to collaboration on protocol design, distributed systems architecture, and infrastructure-heavy products. The fastest way to reach me is email — please include context.
+
+```
+$ ssh devansh@behl.dev
+> Authentication: email · LinkedIn · GitHub issues
+> Response time: 24–48h within IST business hours
+> Best fit: protocol engineering, systems design reviews, technical advisory
+```
+
+<div align="center">
+
+`built with care · maintained with rigor`
+
 </div>
