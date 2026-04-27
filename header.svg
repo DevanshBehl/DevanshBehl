@@ -1,0 +1,39 @@
+<svg width="100%" viewBox="0 0 900 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Devansh Behl — Software Engineer">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1a1f2e" stroke-width="0.5"/>
+    </pattern>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="240" fill="#0d1117"/>
+  <rect width="900" height="240" fill="url(#grid)"/>
+  <rect width="900" height="240" fill="url(#fade)"/>
+
+  <g transform="translate(60, 70)">
+    <text x="0" y="0" font-family="ui-monospace, SF Mono, Menlo, monospace" font-size="13" fill="#58a6ff" letter-spacing="2">$ whoami --verbose</text>
+    <text x="0" y="50" font-family="Georgia, serif" font-size="48" fill="#e6edf3" font-weight="400">Devansh Behl</text>
+    <text x="0" y="82" font-family="Georgia, serif" font-size="20" fill="#8b949e" font-style="italic">software engineer · distributed systems · decentralized infrastructure</text>
+
+    <line x1="0" y1="105" x2="120" y2="105" stroke="#58a6ff" stroke-width="1"/>
+
+    <text x="0" y="130" font-family="ui-monospace, SF Mono, Menlo, monospace" font-size="12" fill="#7d8590">
+      <tspan fill="#58a6ff">~/</tspan><tspan fill="#e6edf3">new-delhi</tspan><tspan fill="#7d8590"> · </tspan><tspan fill="#e6edf3">IST (UTC+5:30)</tspan><tspan fill="#7d8590"> · </tspan><tspan fill="#3fb950">available for collaboration</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(720, 60)" font-family="ui-monospace, SF Mono, Menlo, monospace" font-size="10" fill="#30363d">
+    <text x="0" y="0">0x4445 56414e</text>
+    <text x="0" y="14">53480000 0000</text>
+    <text x="0" y="28">build:stable</text>
+    <text x="0" y="42">ver:2026.04</text>
+    <text x="0" y="70" fill="#58a6ff">█</text>
+    <text x="14" y="70" fill="#3fb950">█</text>
+    <text x="28" y="70" fill="#d29922">█</text>
+    <text x="42" y="70" fill="#f85149">█</text>
+  </g>
+</svg>
