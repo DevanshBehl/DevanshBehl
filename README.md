@@ -1,136 +1,215 @@
-<div align="center">
+<!--
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   devansh-behl/README.md
+   maintained · revision 2026.04 · sentinel commit
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
 
-# `Devansh Behl`
+<p align="center">
+  <img src="./header.svg" alt="Devansh Behl — Software Engineer" width="100%" />
+</p>
 
-**Software Engineer** · Distributed Systems · Decentralized Infrastructure
+<p align="center">
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/portfolio-↗-0d1117?style=for-the-badge&labelColor=0d1117&color=58a6ff" /></a>
+  <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/linkedin-↗-0d1117?style=for-the-badge&labelColor=0d1117&color=58a6ff" /></a>
+  <a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/x.com-↗-0d1117?style=for-the-badge&labelColor=0d1117&color=58a6ff" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/email-↗-0d1117?style=for-the-badge&labelColor=0d1117&color=58a6ff" /></a>
+</p>
 
-`New Delhi, India` · `IST (UTC+5:30)`
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=flat-square&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+## ` § 01 ` &nbsp; Profile
 
-</div>
+I engineer software at the seam where distributed backends meet decentralized infrastructure. My work tends toward systems that have to keep their promises under load — message-driven architectures, on-chain protocols, observability surfaces — and toward the unglamorous discipline of making them *recoverable* when they don't.
 
----
+I'm drawn to problems with three properties simultaneously: a hard correctness floor, a tight latency budget, and an operator who has to trust the system at 4 AM. Most of what I've built lives in that intersection.
 
-## `~/whoami`
+> *Currently building a Solana-native settlement protocol and writing more Rust than is reasonable.*
 
-I build software at the boundary where backend systems meet decentralized infrastructure — designing message-driven architectures, on-chain protocols, and the observability layers that hold them together in production.
+<br/>
 
-My work sits across three concentric concerns: **correctness** (provable systems, type-safe contracts, deterministic state machines), **performance** (low-latency pipelines, zero-copy serialization, async runtimes), and **operability** (instrumentation, tracing, recovery semantics). I treat infrastructure as a first-class engineering surface, not an afterthought.
-
-Currently focused on Solana program development with the Anchor framework, event-driven backends in Rust and TypeScript, and the design of observability stacks that scale beyond ten services.
-
----
-
-## `~/engineering` — areas of depth
+## ` § 02 ` &nbsp; Engineering domains
 
 ```
-DISTRIBUTED SYSTEMS    Event-driven architectures · CQRS · Saga patterns
-                       Kafka, RabbitMQ, NATS · Redis Streams · WebSocket fan-out
+┌─ distributed systems ─────────────────────────────────────────────────────┐
+│  event-driven architectures · CQRS · saga orchestration · idempotency     │
+│  Apache Kafka · RabbitMQ · NATS JetStream · Redis Streams                 │
+│  WebSocket fan-out · server-sent events · WebRTC mesh & SFU topologies    │
+└───────────────────────────────────────────────────────────────────────────┘
 
-BLOCKCHAIN             Solana program development (Anchor, native Rust)
-                       EVM smart contracts (Solidity) · Foundry · cross-chain primitives
+┌─ decentralized infrastructure ────────────────────────────────────────────┐
+│  Solana program development — Anchor framework, native Rust, PDA design   │
+│  EVM smart contracts — Solidity, Foundry, gas profiling, formal patterns  │
+│  cross-chain primitives · verifiable randomness · atomic settlement       │
+└───────────────────────────────────────────────────────────────────────────┘
 
-BACKEND                High-throughput services in Rust, Go, Node.js
-                       PostgreSQL tuning · Redis caching · gRPC · GraphQL federation
+┌─ backend & data ──────────────────────────────────────────────────────────┐
+│  high-throughput services in Rust (Tokio, Axum) and TypeScript (Node)     │
+│  PostgreSQL — query planning, partitioning, logical replication           │
+│  Redis — caching strategies, pub/sub, streams · ClickHouse for analytics  │
+└───────────────────────────────────────────────────────────────────────────┘
 
-INFRASTRUCTURE         Kubernetes orchestration · Docker · Terraform
-                       Prometheus + Grafana · OpenTelemetry · structured logging
-
-ALGORITHMS             Competitive programming · concurrent data structures
-                       Performance profiling · cache-aware optimization
+┌─ infrastructure & observability ──────────────────────────────────────────┐
+│  Kubernetes orchestration · Docker · Terraform · GitHub Actions           │
+│  Prometheus + Grafana · OpenTelemetry traces · structured JSON logging    │
+│  SLO design · runbook engineering · incident review discipline            │
+└───────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+<br/>
 
-## `~/stack`
+## ` § 03 ` &nbsp; Stack
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
-#### Systems & Languages
-`Rust` `Go` `TypeScript`
-`C++` `Python` `Java`
+**` languages `**
+
+`Rust`
+`TypeScript`
+`Go`
+`Python`
 `Solidity`
-
-#### Backend Runtime
-`Tokio` `Actix` `Axum`
-`Node.js` `Express` `Fastify`
-`gRPC` `tRPC`
+`C++`
+`SQL`
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
-#### Data & Messaging
-`PostgreSQL` `MongoDB`
-`Redis` `ClickHouse`
-`Apache Kafka` `RabbitMQ`
-`WebRTC` `WebSocket`
+**` runtime · backend `**
 
-#### Web3
-`Solana` `Anchor`
-`Ethereum` `Foundry`
-`ethers.js` `web3.js`
+`Tokio` · `Axum`
+`Actix-web`
+`Node.js` · `Bun`
+`gRPC` · `tRPC`
+`GraphQL`
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
-#### Infrastructure
-`Docker` `Kubernetes`
-`AWS` `Terraform`
-`Nginx` `HAProxy`
+**` data · messaging `**
 
-#### Observability
-`Prometheus` `Grafana`
-`OpenTelemetry` `Jaeger`
-`Loki` `ELK`
+`PostgreSQL`
+`Redis` · `ClickHouse`
+`MongoDB`
+`Apache Kafka`
+`RabbitMQ` · `NATS`
+
+</td>
+<td valign="top" width="25%">
+
+**` infra · observability `**
+
+`Kubernetes` · `Docker`
+`AWS` · `Terraform`
+`Prometheus` · `Grafana`
+`OpenTelemetry`
+`Loki` · `Jaeger`
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## `~/projects` — selected work
+## ` § 04 ` &nbsp; Selected work
 
-### **Code Nexus** &nbsp;·&nbsp; *technical interview platform*
-Real-time collaborative IDE with sub-100ms operational transform synchronization. WebRTC-backed video conferencing with TURN fallback, AI-driven mock interview agents, and a session replay engine for post-interview review. Stack: Next.js, Rust (sync server), PostgreSQL, Redis pub/sub.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-### **Decentralized Casino** &nbsp;·&nbsp; *Solana DeFi protocol*
-On-chain provably-fair gaming protocol built in Rust with the Anchor framework. Verifiable randomness via Switchboard VRF, a custom escrow program for atomic settlement, and a TypeScript SDK for client integration. Audited internally for re-entrancy, integer overflow, and PDA seed collisions.
+#### **Code Nexus**
 
-### **Alerion AI** &nbsp;·&nbsp; *edge-fog anomaly detection*
-Distributed monitoring platform for industrial IoT. Three-tier topology — edge ingestion, fog aggregation, cloud analytics — connected by Kafka. Containerized inference workloads orchestrated via Kubernetes; alert pipeline built on Prometheus AlertManager with custom routing.
+A technical interview platform with a real-time collaborative IDE. Operational-transform synchronization holds latency under 100ms across continents; WebRTC video falls back through TURN; an AI agent runs structured mock interviews with replay-able session capture for post-interview review.
 
-### **Viscosity UI** &nbsp;·&nbsp; *component library* — *in development*
-Headless React primitives focused on physically-modeled fluid surfaces and refractive glassmorphism. WebGL shaders for liquid effects, framework-agnostic core, full TypeScript inference for variant APIs.
+</td>
+<td valign="top">
 
----
+`Next.js` `Rust`
+`PostgreSQL` `Redis`
+`WebRTC` `OT`
 
-## `~/principles`
+</td>
+</tr>
+<tr>
+<td width="60%" valign="top">
 
-> Code is read far more than it is written — optimize for the next engineer who needs to debug it at 3 AM.
+#### **Decentralized Settlement Protocol**
 
-> Distributed systems fail. The question is whether they fail loudly, recoverably, and with traces.
+An on-chain provably-fair gaming protocol on Solana, written in Rust against the Anchor framework. Switchboard VRF for verifiable randomness, a custom escrow program for atomic settlement, and a TypeScript SDK that hides PDA derivation from clients. Internally audited for re-entrancy, integer overflow, and seed collisions.
 
-> Premature abstraction is more dangerous than premature optimization.
+</td>
+<td valign="top">
 
-> Tests are documentation that compiles. Types are documentation that the compiler enforces.
+`Solana` `Anchor`
+`Rust` `TypeScript`
+`Switchboard VRF`
 
----
+</td>
+</tr>
+<tr>
+<td width="60%" valign="top">
 
-## `~/activity`
+#### **Alerion AI**
+
+A three-tier edge-fog-cloud monitoring platform for industrial anomaly detection. Edge nodes ingest telemetry; fog aggregators run lightweight inference; cloud analytics handles deep models. Kafka glues the tiers; Kubernetes orchestrates inference workloads; Prometheus AlertManager routes incidents through custom logic.
+
+</td>
+<td valign="top">
+
+`Kafka` `Kubernetes`
+`Docker` `Prometheus`
+`Python` `gRPC`
+
+</td>
+</tr>
+<tr>
+<td width="60%" valign="top">
+
+#### **Viscosity UI** &nbsp;<sub>*— in development*</sub>
+
+A headless React component library built around physically-modeled fluid surfaces and refractive glassmorphism. WebGL shaders for liquid effects, framework-agnostic primitives, and full TypeScript inference for variant APIs.
+
+</td>
+<td valign="top">
+
+`React` `WebGL`
+`TypeScript` `GLSL`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ` § 05 ` &nbsp; Engineering principles
+
+```diff
++ code is read far more than it is written.
++ optimize for the engineer who debugs it at 3 AM — that engineer is often you.
+
++ distributed systems fail. the question is whether they fail
++ loudly, recoverably, and with traces.
+
+- premature abstraction is more expensive than premature optimization,
+- and harder to undo.
+
++ tests are documentation that compiles.
++ types are documentation the compiler enforces.
+
+! the boring choice is usually correct.
+! reach for novelty when the boring choice has a known failure mode, not before.
+```
+
+<br/>
+
+## ` § 06 ` &nbsp; Telemetry
 
 <div align="center">
 
-<a href="https://github.com/DevanshBehl">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevanshBehl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshBehl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevanshBehl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&card_width=420" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshBehl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&card_width=320" />
 
 <br/>
 
@@ -138,21 +217,24 @@ Headless React primitives focused on physically-modeled fluid surfaces and refra
 
 </div>
 
----
+<br/>
 
-## `~/contact`
+## ` § 07 ` &nbsp; Contact
 
-I'm selectively open to collaboration on protocol design, distributed systems architecture, and infrastructure-heavy products. The fastest way to reach me is email — please include context.
+I'm selectively open to collaboration on protocol design, distributed systems architecture, and infrastructure-heavy products. The fastest path is email — please include context: the problem, the constraint, and what you've already tried.
 
-```
+```console
 $ ssh devansh@behl.dev
-> Authentication: email · LinkedIn · GitHub issues
-> Response time: 24–48h within IST business hours
-> Best fit: protocol engineering, systems design reviews, technical advisory
+> auth        : email · linkedin · github
+> response    : 24–48h within IST business hours
+> best fit    : protocol engineering, systems design review, technical advisory
+> not a fit   : crypto pump-and-dump, generic "AI startup" cofounder asks
 ```
+
+<br/>
 
 <div align="center">
 
-`built with care · maintained with rigor`
+<sub>` built with care · maintained with rigor · last reviewed 2026.04 `</sub>
 
 </div>
