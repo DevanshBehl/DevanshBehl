@@ -1,156 +1,62 @@
-# Devansh Behl
+markdown_content = """# Devansh Behl
+**Backend & Systems Engineer**
 
-### Backend & Systems Engineer
+Computer Science undergraduate building backend systems, distributed infrastructure, and developer-focused software with an emphasis on reliability, performance, and clean architecture. My work spans event-driven applications, cloud infrastructure, and Web3 protocols.
 
-Building backend systems, distributed infrastructure, and developer-focused software with an emphasis on reliability, performance, and clean architecture.
-
-<br />
-
-[![GitHub](https://img.shields.io/badge/GitHub-DevanshBehl-181717?style=flat-square\&logo=github)](https://github.com/DevanshBehl)
-[![Portfolio](https://img.shields.io/badge/Portfolio-devanshbehl.netlify.app-111111?style=flat-square\&logo=google-chrome\&logoColor=white)](https://devanshbehl.netlify.app)
+> I prefer building systems from first principles, understanding their underlying architecture, and optimizing them for reliability and scale at the protocol level.
 
 ---
 
-## About
+### Engineering Focus
 
-Computer Science undergraduate focused on backend engineering and systems development.
+**Backend Architecture**
+Designing distributed services, real-time communication protocols, and asynchronous processing pipelines. Deep focus on API design, database modeling, and caching strategies for high-performance execution.
 
-My work spans:
-
-* Backend architecture and distributed systems
-* Event-driven and real-time applications
-* Cloud infrastructure and DevOps
-* Blockchain and Web3 infrastructure
-* Developer tools and platforms
-
-I prefer building systems from first principles, understanding their underlying architecture, and optimizing them for reliability and scale.
+**Infrastructure & Operations**
+Deploying and scaling containerized workloads. Implementing CI/CD pipelines, infrastructure automation (IaC), message queues, and comprehensive observability stacks for distributed systems.
 
 ---
 
-## Technical Stack
+### Technical Stack
 
-### Languages
-
-`Rust` `TypeScript` `JavaScript` `Python` `C++` `Java` `Solidity`
-
-### Backend & Systems
-
-`Node.js` `Express.js` `FastAPI` `REST` `WebSockets` `WebRTC` `gRPC`
-
-`Distributed Systems` `Event-Driven Architecture` `Microservices` `API Design`
-
-### Databases & Messaging
-
-`PostgreSQL` `MongoDB` `MySQL` `Redis`
-
-`Apache Kafka` `RabbitMQ`
-
-### Cloud & Infrastructure
-
-`AWS` `Docker` `Kubernetes` `Terraform`
-
-`GitHub Actions` `CI/CD` `Linux`
-
-### Web3
-
-`Ethereum` `Solana` `Solidity`
-
-`Ethers.js` `Web3.js`
-
-### Frontend
-
-`React` `Next.js` `Tailwind CSS` `Vite`
-
-### Observability & Tooling
-
-`Git` `GitHub` `Prometheus` `Grafana` `OpenTelemetry`
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Rust, TypeScript, JavaScript, Python, C++, Java, Solidity |
+| **Backend & APIs** | Node.js, Express.js, FastAPI, REST, gRPC, WebSockets, WebRTC |
+| **Data & Messaging** | PostgreSQL, MongoDB, MySQL, Redis, Apache Kafka, RabbitMQ |
+| **Cloud & Infra** | AWS, Kubernetes, Docker, Terraform, GitHub Actions, Linux |
+| **Web3** | Ethereum, Solana, Solidity, Ethers.js, Web3.js |
+| **Observability** | Prometheus, Grafana, OpenTelemetry |
+| **Frontend** | React, Next.js, Tailwind CSS, Vite |
 
 ---
 
-## Engineering Focus
+### Selected Work
 
-<table>
-<tr>
-<td width="50%">
+**Code Nexus** 
+A collaborative developer platform designed around modular backend services, real-time communication, asynchronous execution, and rigorous infrastructure isolation.
+*Stack: TypeScript, Node.js, PostgreSQL, Redis, RabbitMQ, WebSockets, Docker*
+[View Repository](https://github.com/DevanshBehl)
 
-### Backend
+**DEX** 
+A decentralized exchange project exploring smart-contract architecture, direct blockchain interaction, and robust Web3 application infrastructure.
+*Stack: Solidity, Ethereum, Ethers.js, TypeScript*
+[View Repository](https://github.com/DevanshBehl)
 
-* API architecture
-* Distributed services
-* Real-time communication
-* Asynchronous processing
-* Database design
-* Caching & performance
-
-</td>
-<td width="50%">
-
-### Infrastructure
-
-* Containerization
-* Cloud deployment
-* CI/CD
-* Message queues
-* Observability
-* Infrastructure automation
-
-</td>
-</tr>
-</table>
+**InstaPay** 
+A payment-oriented application focused on secure backend APIs, transactional workflows, and financial application architecture.
+*Stack: TypeScript, Node.js, PostgreSQL, Redis*
+[View Repository](https://github.com/DevanshBehl)
 
 ---
 
-## Selected Work
+### Contact & Activity
 
-### Code Nexus
+*   **GitHub Activity:** [github.com/DevanshBehl](https://github.com/DevanshBehl)
+*   **Contact:** [Email](mailto:your@email.com) | [LinkedIn](https://linkedin.com/in/your-handle)
+"""
 
-Collaborative developer platform designed around modular backend services, real-time communication, asynchronous execution, and infrastructure isolation.
+with open("README.md", "w") as f:
+    f.write(markdown_content)
 
-**Stack:** `TypeScript` `Node.js` `PostgreSQL` `Redis` `RabbitMQ` `WebSockets` `Docker`
-
-→ [Repository](https://github.com/DevanshBehl/code-nexus)
-
----
-
-### DEX
-
-Decentralized exchange project exploring smart-contract architecture, blockchain interaction, and Web3 application infrastructure.
-
-**Stack:** `Solidity` `Ethereum` `Ethers.js` `TypeScript`
-
-→ [Repository](https://github.com/DevanshBehl/DEX)
-
----
-
-### InstaPay
-
-Payment-oriented application focused on backend APIs, transaction workflows, and financial application architecture.
-
-**Stack:** `TypeScript` `Node.js` `PostgreSQL` `Redis`
-
-→ [Repository](https://github.com/DevanshBehl/InstaPay)
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevanshBehl&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&bg_color=00000000" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshBehl&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=9ca3af&bg_color=00000000" height="165" />
-</p>
-
----
-
-## Contact
-
-<p>
-<a href="https://github.com/DevanshBehl">GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://devanshbehl.netlify.app">Portfolio</a>
-</p>
-
----
-
-<p align="center">
-<sub>Backend • Systems • Infrastructure • Web3</sub>
-</p>
+print("File created successfully.")
